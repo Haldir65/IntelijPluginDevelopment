@@ -1,5 +1,5 @@
 <idea-plugin version="2">
-  <id>com.your.company.unique.plugin.id</id>
+  <id>com.me.harris.unique.plugin.id</id>
   <name>MyAweSomePlugin</name>
   <version>1.0</version>
   <vendor email="AweSome@awesome.com" url="http://www.awesome.com">YourCompany</vendor>
