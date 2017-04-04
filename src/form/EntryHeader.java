@@ -50,7 +50,7 @@ public class EntryHeader extends JPanel {
         });
         mVarNameType.add(mType2);
 
-        mType3 = new JRadioButtonMenuItem("mAaBbCc");
+        mType3 = new JRadioButtonMenuItem("mAaBbCc"); // 驼峰
         mType3.setPreferredSize(new Dimension(60, 26));
         mType3.addActionListener(new ActionListener() {
             @Override
